@@ -39,7 +39,7 @@ Sistema de gestión para una pyme que vende e instala mangueras hidráulicas: in
 
 ## Sobre el código privado
 
-MiTribuna y HydroStock son proyectos comerciales y académicos, por eso su código no es público. En una entrevista puedo abrir los repositorios en pantalla y recorrerlos contigo.
+MiTribuna y HydroStock son proyectos comerciales y académicos, por eso su código no es público.
 
 ## Contacto
 
